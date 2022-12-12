@@ -1,0 +1,9 @@
+version: '3'
+services:
+  airflow:
+    image: puckel/docker-airflow:1.10.9
+    environment:
+      - LOAD_EX=n
+      - EXECUTOR=Local
+    ports:
+      - "8080:8080"
