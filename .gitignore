@@ -130,3 +130,6 @@ dmypy.json
 
 # pipenv
 Pipfile.lock
+
+# data should not be put in repo
+data/
