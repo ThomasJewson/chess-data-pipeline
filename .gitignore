@@ -130,3 +130,10 @@ dmypy.json
 
 # pipenv
 Pipfile.lock
+
+# Airflow ignores
+airflow.cfg
+airflow.db
+unittests.cfg
+airflow-webserver.pid
+logs/
