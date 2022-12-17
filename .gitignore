@@ -233,3 +233,6 @@ licenses/LICENSES-ui.txt
 
 # Pipenv 
 Pipfile.lock
+
+# Lichess Creds
+lichess_api_creds.secret
